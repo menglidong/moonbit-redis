@@ -3,7 +3,7 @@ name = "oboard/redis"
 version = "0.2.2"
 
 import {
-  "moonbitlang/async@0.22.4",
+  "moonbitlang/async@0.22.7",
 }
 
 readme = "README.mbt.md"
